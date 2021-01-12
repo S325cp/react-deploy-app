@@ -1,0 +1,6 @@
+{
+    "port":"5000",
+    "jwtSecret": "React deploy app",
+    "mongoUri":"mongodb+srv://Edward:wp-wksmkrthP2cpYucaJ@cluster0.3nbrx.mongodb.net/REACT-DEPLOY?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
