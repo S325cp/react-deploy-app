@@ -1,18 +1,18 @@
 # deploying-app
 
 > ## Technologies:
-> - HTML
-> - CSS
-> - JS
+> - JSX
+> - SCSS
+> - React.js
 > - Font Awesome
 
 ---
 
 ### Made by: Edward Podwoisky .
 
-### My email: [<someemail@a.com>](someemail@a.com).
+### My email: [<edik@atlas.in.ua>](someemail@a.com).
 
-### My phone num.: +48789456123
+### My phone num.: +48791783073
 
 ---
 
